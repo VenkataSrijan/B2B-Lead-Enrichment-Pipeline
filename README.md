@@ -26,7 +26,7 @@ The platform implements a multi-tiered pipeline that executes in four determinis
 
 The interface is styled using customized **Tailwind CSS v4** configurations based on the **Professional Polish Theme**:
 
-- **Cosmic Slate Sidebar Sidebar**: A left-hand vertical control center containing responsive tab triggers, interactive hover tooltip menus, and unified layout bounds.
+- **Cosmic Slate Sidebar**: A left-hand vertical control center containing responsive tab triggers, interactive hover tooltip menus, and unified layout bounds.
 - **Dynamic Real-Time Metrics Bar**: Displays core operating metrics including 24-hour pipeline throughput, Gemini AI success rate, average enrichment latency (ms), and active network worker threads.
 - **Dynamic ICP Rule Panel**: Interactive controls allowing on-the-fly adjustment of Employee Headcount thresholds, VC Venture Funding levels, and multi-tag target Industry filters.
 - **Detailed Qualification Inspector**: Beautifully displays qualification badges, alignment metrics (e.g., `9.4/10`), structured scraped technologies, LLM qualification justifications, and hyper-personalized GTM outreach opening pitch suggestions with copy-to-clipboard functionality.
