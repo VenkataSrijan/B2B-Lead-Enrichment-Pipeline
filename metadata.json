@@ -1,0 +1,6 @@
+{
+  "name": "B2B Lead Enrichment Engine",
+  "description": "An autonomous B2B lead ingestion, enrichment, and AI-driven qualification engine using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
